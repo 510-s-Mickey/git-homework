@@ -1,4 +1,4 @@
-this repo is for git homework
+This repo is for Git Homework
 
 
 Below is the screenshot of the html 
