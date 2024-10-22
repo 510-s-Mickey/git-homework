@@ -1,6 +1,6 @@
-# Contributing to [Project Name]
+# Contributing to CSC510 Git
 
-Thank you for your interest in contributing to [Project Name]! We value your contributions and appreciate your time and effort. To ensure the process is smooth and that all contributions are high quality, please follow the guidelines below.
+Thank you for your interest in contributing to CSC510 Git ! We value your contributions and appreciate your time and effort. To ensure the process is smooth and that all contributions are high quality, please follow the guidelines below.
 
 ## How Can You Contribute?
 
